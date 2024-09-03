@@ -58,3 +58,6 @@ input[type="checkbox"]:checked, input[type="radio"]:checked, input[type="submit"
 .rotina label, .rotina textarea{
     vertical-align:middle;
 }
+.rotina textarea{
+    width:100%;
+}
